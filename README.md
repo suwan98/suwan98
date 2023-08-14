@@ -2,7 +2,7 @@
 
 I'm Learning Web FrontEnd✨
 <br />
-I'm Interested User UX✨
+I'm Interested User Experience✨
 
 
 ### Skills
