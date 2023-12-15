@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 ![react](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Nextjs](https://img.shields.io/badge/next.js-232F3E?style=flat&logo=nextdotjs&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Next.Js-E8E8E8?style=flat&logo=nextdotjs&logoColor=black)
 
 
 ### Social
